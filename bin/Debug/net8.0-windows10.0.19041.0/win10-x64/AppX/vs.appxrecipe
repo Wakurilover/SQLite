@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Kanta\source\repos\SQLiteDemo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-08T15:33:55.976</Modified>
+      <Modified>2024-11-11T06:28:58.915</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kanta\source\repos\SQLiteDemo\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLiteDemo.dll">
       <PackagePath>SQLiteDemo.dll</PackagePath>
-      <Modified>2024-11-08T15:33:54.946</Modified>
+      <Modified>2024-11-11T06:28:57.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kanta\source\repos\SQLiteDemo\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SQLiteDemo.exe</PackagePath>
-      <Modified>2024-11-08T15:33:55.002</Modified>
+      <Modified>2024-11-11T06:28:57.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kanta\source\repos\SQLiteDemo\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
